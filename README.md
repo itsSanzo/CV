@@ -27,6 +27,7 @@ Fascinated to find out how things work behind the scenes, I joined Makers Academ
 - Wireframing & UI design
 - Ruby & Ruby on Rails
 - Javascript, JQuery & AJAX
+- Angular.js
 - Object Oriented Programming principles
 - Agile principles and practice
 - Test Driven Development with Rspec, Jasmine, and Capybara.
@@ -47,12 +48,19 @@ Education
 - Encouraged to follow Agile practices, pair program and team up for projects.
 - 10 days final project: [Chartist]
 
-### Digital & Virtual Design 
+### Digital & Virtual Design (‘06 ~ ‘09)
 - Learned the principles of graphic design, focusing on its use on the digital media.
 - Gained understanding of graphic and video editing software of the Adobe suite.
 - Delivered briefed projects on tight deadlines.
 
 For more about my previous experiences and education, you can have a look at my [Linkedin] profile.
+
+
+Interestes
+-----------
+- UX, Usability, and UI
+- Graphic Design
+- Software Craftmanship
 
 
 Get in touch
